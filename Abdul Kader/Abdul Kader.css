@@ -1,0 +1,26 @@
+body {
+    background-color: lightskyblue;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightslategray;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: mediumaquamarine;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: rosybrown;
+}
+h1 {
+    text-align: center;
+}
